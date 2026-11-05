@@ -1,9 +1,3 @@
-#вывод для каждого агента справдливая цена
-#изменить чуть начальную цену лотов
-#fair estimate
-#график аукциона
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
